@@ -80,3 +80,6 @@ Além disso, sou **estudante de Fonoaudiologia** pela **UNIVR** e realizei o cur
 ### 🤝 Vamos conectar?
 
 Me chama no [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-ribeiro-chaves-06131b2a3/) para trocar ideias ou fazer parcerias 👋
+
+![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-snake.svg)
+
