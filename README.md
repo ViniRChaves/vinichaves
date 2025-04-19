@@ -81,7 +81,7 @@ Além disso, sou **estudante de Fonoaudiologia** pela **UNIVR** e realizei o cur
 
 Me chama no [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-ribeiro-chaves-06131b2a3/) para trocar ideias ou fazer parcerias 👋
 
-### 🐍 Snake comendo meus commits
+## 🐍 Snake comendo meus commits
 
 ![Snake animation](https://github.com/ViniRChaves/ViniRChaves/blob/output/github-snake.svg)
 
